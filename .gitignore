@@ -1,0 +1,13 @@
+# Go build output
+/server/server
+
+# Local env
+.env
+.env.*
+!.env.example
+!**/.env.example
+!**/.env.local.example
+
+# Editor / OS
+.DS_Store
+.claude/
